@@ -1,0 +1,19 @@
+{
+  "name": "my-refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "if_request_params.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiiyan/my-refactoring.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiiyan/my-refactoring/issues"
+  },
+  "homepage": "https://github.com/shiiyan/my-refactoring#readme"
+}
